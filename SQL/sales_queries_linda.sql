@@ -1,6 +1,8 @@
 -- ================================================
 --  Sales Analytics SQL Queries — Portfolio (Linda)
 --  Fictional retail dataset for data analysis practice
+-- Last updated by Linda on: 2025-11-27
+-- Last updated by Linda on: 2025-11-27
 -- ================================================
 
 -- 1) Total Revenue and Total Orders
